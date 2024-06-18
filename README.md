@@ -23,11 +23,6 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedrovieiras&show_icons=true&theme=blue-green"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovieiras&layout=compact&theme=blue-green"/>
 </div>
-
-
-
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/vieira_santos00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
