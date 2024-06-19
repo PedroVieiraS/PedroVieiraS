@@ -16,7 +16,7 @@
   🌱 Estou sempre buscando aprender e aprimorar minhas habilidades em desenvolvimento de software.<br>
   💼 Trabalho com desenvolvimento Full-Stack, criando soluções eficientes e robustas.<br>
   🎓 Tenho 24 anos e uma sólida formação em tecnologia da informação.<br>
-</div>
+</div><br>
 
 
 <div>
