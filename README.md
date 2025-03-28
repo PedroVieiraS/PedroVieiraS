@@ -11,13 +11,6 @@
 <div style="display: inline_block"><br>
 </div>
 
-## Sobre mim
-<div>
-  🌱 Estou sempre buscando aprender e aprimorar minhas habilidades em desenvolvimento de software.<br>
-  💼 Trabalho com desenvolvimento Full-Stack, criando soluções eficientes e robustas.<br>
-  🎓 Tenho 24 anos e uma sólida formação em tecnologia da informação.<br>
-</div><br>
-
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedrovieiras&show_icons=true&theme=blue-green"/>
